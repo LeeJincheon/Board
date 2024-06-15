@@ -7,3 +7,4 @@
 4. JPA 엔티티 작성
 5. Repository 작성
 6. Spring Security 의존성 추가
+7. CSRF, CORS 설정
