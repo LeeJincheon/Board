@@ -16,3 +16,7 @@ spring:
   security:
     user.name: board-admin
     user.password: board-admin-password
+  logging:
+    level:
+      root: INFO
+#      com.example.board.controller.PostController: INFO
