@@ -2,7 +2,7 @@ package com.example.board.controller;
 
 import com.example.board.dto.PostPatchRequestBody;
 import com.example.board.dto.PostPostRequestBody;
-import com.example.board.model.Post;
+import com.example.board.dto.Post;
 import com.example.board.service.PostService;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
